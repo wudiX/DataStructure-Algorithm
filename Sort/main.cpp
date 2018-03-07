@@ -1,9 +1,7 @@
 #include "Sort.h"
 
 int main() {
-	//test_InsertSort();
-	//test_ShellSort();
-	test_HeapSort();
+	unit_testing("MergeSort");
 	system("pause");
 	return 0;
 }
